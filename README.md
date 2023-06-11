@@ -1,4 +1,4 @@
-# ZeldaBoWShader
+# ZeldaBoW Shader
 
 The model used in this project is not allowed to be used.
 
